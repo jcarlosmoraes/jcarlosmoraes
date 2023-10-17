@@ -1,6 +1,9 @@
-Ola meu nome é José Carlos, sou Técnico em Informática, atuo na area desde 2018, atualmente trabalho nas foraças armadas
+## Ola Pessoal
+
+Meu nome é José Carlos, sou **Técnico em Informática**, atuo na area desde 2018, atualmente trabalho nas forças armadas
 Para me encontrar:
-linkedin
+[linkedin](<https://www.linkedin.com/in/jcarlosmoraes/>)
+
 
 Minhas Habilidades:
 JavaScript
